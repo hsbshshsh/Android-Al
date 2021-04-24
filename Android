@@ -1,5 +1,44 @@
-استيراد نظام التشغيل
-os.system ("مسح")
-os.system ("pkg install git")
-os.system ("pkg install tor ")
-os.system ("tor")
+يو/////////////import os ,sys,time
+os.system ("clear")
+def jalan(z):
+	for e in z + '\n':
+		sys.stdout.write(e)
+		sys.stdout.flush()
+		time.sleep(00000.01)
+		
+jalan("\033[1;33mohmed al-Hakim")
+jalan ("\033[1;33welcome to my channel")
+jalan ("\033[1;33pleas like and share and subskraib")
+print ("\033[1;33wate")
+time.sleep(5)
+print ("───────╔╗─────────╔╗")
+print ("╔══╗╔═╗║╚╗╔══╗╔═╗╔╝║")
+print ("║║║║║╬║║║║║║║║║╩╣║╬║")
+print ("╚╩╩╝╚═╝╚╩╝╚╩╩╝╚═╝╚═╝")
+print ("n")
+print ("mohmed -alHakim")
+print ("mohmed Ahmed")
+time.sleep(5)
+jalan("[1]torr")
+jalan("[2]ip wepsite")
+jalan("[3]ip attack")
+jalan("[4]exit")
+k =input("typr pleas......: ")
+if k == '1':
+	print("wate")
+	import os
+	os . system("pkg install update && pkg install tor")
+if k == '2':
+	print("wate")
+	import os
+	os . system("git clone https://github.com/MOHAMED-alturky-wa/Mohamed-ALturky-ip.git ; cd Mohamed-ALturky-ip ; python3 'hack ip.py' ")
+if k == '3':
+	print("wate")
+	import os
+	os . system("")
+if k == '4':
+	print("wate")
+	import os
+	os . system("exit")
+
+
